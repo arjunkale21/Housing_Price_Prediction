@@ -17,7 +17,7 @@ Housing Market is among most volatile markets. Various parameters affect the pri
   We have used PowerBI for Visualization
   
   
-  connect on email shub2020k@gmail.com
+  connect on email arjunkale21@gmail.com
 
 ### we have deployed our project on Heroku cloud : 
 https://housepricepredictor01.herokuapp.com/
